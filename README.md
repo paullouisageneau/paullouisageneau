@@ -7,7 +7,7 @@
 - :hearts: I'm looking for [sponsors](https://github.com/sponsors/paullouisageneau) to continue maintaining open-source projects.
 - :mailbox: Please find my contact information and résumé on [paul-louis.ageneau.org](https://paul-louis.ageneau.org/)
 - :tophat: Check out my blog  where I tinker with stuff on [chapelierfou.org](https://chapelierfou.org/)
-- :thumbsup: Follow me on [GitHub](https://github.com/paullouisageneau?tab=followers) or [Twitter](https://twitter.com/plajno)
+- :thumbsup: Follow me on [GitHub](https://github.com/paullouisageneau?tab=followers) or [Mastodon](https://fosstodon.org/@plajno)
 - :smile: Pronouns: he/him
 
 Some of my open source projects:
