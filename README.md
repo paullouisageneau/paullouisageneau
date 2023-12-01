@@ -22,7 +22,7 @@ Some of my open source projects:
 
 I'm a contributor to [node-datachannel](https://github.com/murat-dogan/node-datachannel), Node.js bindings for [libdatachannel](https://libdatachannel.org/).
 
-I've also been contributing to [WebTorrent](https://webtorrent.io/), and [libtorrent](https://github.com/arvidn/libtorrent), in which I added WebTorrent support. This first native WebTorrent implementation opens exciting possibilities for Peer-to-Peer file exchanges between Web browsers and native clients! An awesome example of WebTorrent application is [PeerTube](https://joinpeertube.org/).
+I've also been contributing to [WebTorrent](https://webtorrent.io/), and [libtorrent](https://github.com/arvidn/libtorrent), in which I added WebTorrent support. This first native WebTorrent implementation opens exciting possibilities for Peer-to-Peer file exchanges between Web browsers and native clients!
 
 Otherwise, I like working on robots and tinkering with [Minitels](https://en.wikipedia.org/wiki/Minitel)! Check out [my blog](https://chapelierfou.org/) :robot:
 
